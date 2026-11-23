@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.tar.gz
+*.so
+build/
+dist/
+.DS_Store
+.venv/
+env/
